@@ -1,6 +1,5 @@
 # FlappyBirdNEAT
-RL with NEAT to get Flappy Bird played itself.
-[The detail for NEAT can be find in THIS LINK](http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf)
+RL with NEAT to get Flappy Bird played itself;  The detail for NEAT can be find in[HERE](http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf)
 
 ## How to 
 1. Install neat-python, numpy, graphviz, matplotlib, pygame;
